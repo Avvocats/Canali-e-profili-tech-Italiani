@@ -14,7 +14,7 @@ Canali e profili tech Italiani (gruppi Telegram, podcast, canali YouTube, altro)
 
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Torna su </a></b>
 </div>
 
 
