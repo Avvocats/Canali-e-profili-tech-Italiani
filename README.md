@@ -23,7 +23,7 @@ Canali e profili tech Italiani (gruppi Telegram, podcast, canali YouTube, altro)
 
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Torna su </a></b>
 </div>
 
 ## YouTube 
@@ -33,14 +33,14 @@ Canali e profili tech Italiani (gruppi Telegram, podcast, canali YouTube, altro)
 * [MorroLinux](https://www.youtube.com/@morrolinux)
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Torna su </a></b>
 </div>
 
 ## Twitch
 
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Torna su </a></b>
 </div>
 
 ## Instagram
@@ -48,20 +48,20 @@ Canali e profili tech Italiani (gruppi Telegram, podcast, canali YouTube, altro)
 
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Torna su </a></b>
 </div>
 
 ## Discord
 
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Torna su </a></b>
 </div>
 
 ## Slack
 
 
 <div align="right">
-  <b><a href="#indice">↥ Back To Top</a></b>
+  <b><a href="#indice">↥ Torna su </a></b>
 </div>
 
