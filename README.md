@@ -1,9 +1,6 @@
 # Canali-e-profili-tech-Italiani
 Canali e profili tech Italiani (gruppi Telegram, podcast, canali YouTube, altro)
 
-# Italian tech communities
-Un insieme di communities, podcast, canali Twitch/Youtube e molto altro del tech italiano. _Enjoy!_
-
 ## Indice
   * [Gruppi Telegram delle offerte](#gruppi-telegram-delle-offerte)
   * [Podcast](#podcast)
